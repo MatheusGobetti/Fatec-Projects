@@ -107,7 +107,7 @@ int main(){
 
                         //Vagas para carros
 
-                        if(andar1.vagacarro < 20){      //Se houver vaga no primeiro piso ele coloca o carro la
+                        if(andar1.vagacarro < 20){      //Se houver vaga no primeiro piso ele coloca o carro la.
                             andar1.vagacarro += 1;
                             gerencia1.carrosAtendidos += 1;
 
