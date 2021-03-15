@@ -1,3 +1,6 @@
+// Projeto desenvolvido como trabalho na disciplina de Algoritmos e Lógica de Programação
+// Grande parte do algoritmo está funcional. Apenas com relação ao uso do tempo está com alguns bugs
+
 #include <iostream>
 #include <stdlib.h> 
 #include <time.h>
