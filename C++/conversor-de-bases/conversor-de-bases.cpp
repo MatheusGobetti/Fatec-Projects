@@ -1,3 +1,6 @@
+// Projeto desenvolvido como trabalho na disciplina de Arquitetura Organizacional de Computadores
+// O algoritmo está totalmente funcional. Só é necessário fazer uma reescrita do código para se tornar mais performático
+
 #include <iostream>
 #include <math.h>
 
