@@ -1,3 +1,7 @@
+// PRIMEIRO projeto desenvolvido como trabalho na disciplina de Algoritmos e Lógica de Programação
+// Grande parte do algoritmo está funcional, porém o código está totalmente estruturado, e sem uso de funções
+// É necessário total reescrita do código para melhor funcionamento
+
 #include <iostream>
 
 using namespace std;
