@@ -9,8 +9,10 @@
 - A autonomous parking
 - A numeric base converter
 - A vending machine
+- Some important basic algorithms
 -----------
 #### Até agora desenvolvi:
 - Um estacionamento autônomo
 - Um conversor de bases numéricas
 - Uma máquina de venda automática
+- Alguns algoritmos que julgo importante saber
