@@ -10,6 +10,7 @@
 - A numeric base converter
 - A vending machine
 - A agenda
+- A printer using queue data structure
 - Some important basic algorithms
 -----------
 #### Até agora desenvolvi:
@@ -17,4 +18,5 @@
 - Um conversor de bases numéricas
 - Uma máquina de venda automática
 - Uma agenda
+- Uma impressora usando uma fila como estrutura de dados
 - Alguns algoritmos que julgo importante saber
